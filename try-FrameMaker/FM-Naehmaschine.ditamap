@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA 1.3 Map//EN" "technicalContent/dtd/map.dtd" [
+]>
+
+
+
+<map xmlns:ditaarch = "http://dita.oasis-open.org/architecture/2005/">
+<title>Naehmaschine</title>
+<mapref href = "source/aa_img/img-keys.ditamap" format = "ditamap">
+<topicmeta><navtitle>keymap: Grafiken</navtitle></topicmeta></mapref>
+<topicref href = "source/r_sicherheit.xml" keys = "r_sicherheit"
+    type = "reference"><topicmeta><navtitle>Sicherheit</navtitle></topicmeta></topicref>
+<topicref href = "source/c_beschreibung.xml" keys = "c_beschreibung"
+    type = "concept"><topicmeta><navtitle>Beschreibung</navtitle></topicmeta>
+<topicref href = "source/r_funktionen.xml" keys = "r_funktionen"
+    type = "reference"><topicmeta><navtitle>Funktionen</navtitle></topicmeta></topicref>
+<topicref href = "source/r_zubehoer.xml" keys = "r_zubehoer"
+    type = "reference"><topicmeta><navtitle>Zubehör</navtitle></topicmeta></topicref></topicref>
+<topicref href = "source/t_transportieren.xml" keys = "t_transportieren"
+    type = "task"><topicmeta><navtitle>Transportieren</navtitle></topicmeta></topicref>
+<topicref href = "source/t_in-betrieb-nehmen.xml"
+    keys = "t_in-betrieb-nehmen" type = "task"><topicmeta><navtitle>In
+Betrieb nehmen</navtitle></topicmeta></topicref>
+<topicref href = "source/t_bedienen.xml" keys = "t_bedienen"
+    type = "task"><topicmeta><navtitle>Bedienen</navtitle></topicmeta>
+<topicref href = "source/t_naehen.xml" keys = "t_naehen" type = "task">
+<topicmeta><navtitle>Nähen</navtitle></topicmeta></topicref>
+<topicref href = "source/t_saeumen.xml" keys = "t_saeumen" type = "task">
+<topicmeta><navtitle>Säumen</navtitle></topicmeta></topicref>
+<topicref href = "source/t_schneiden.xml" keys = "t_schneiden"
+    type = "task"><topicmeta><navtitle>Schneiden</navtitle></topicmeta></topicref>
+<topicref href = "source/t_geschwindigkeitsregulieren.xml"
+    keys = "t_geschwindigkeitsregulieren" type = "task"><topicmeta>
+<navtitle>Geschwindigkeitsregulieren</navtitle></topicmeta></topicref></topicref>
+<topicref href = "source/t_warten.xml" keys = "t_warten" type = "task">
+<topicmeta><navtitle>Warten</navtitle></topicmeta>
+<topicref href = "source/t_reinigen.xml" keys = "t_reinigen"
+    type = "task"><topicmeta><navtitle>Reinigen</navtitle></topicmeta></topicref>
+<topicref href = "source/t_lagern.xml" keys = "t_lagern" type = "task">
+<topicmeta><navtitle>Lagern</navtitle></topicmeta></topicref></topicref>
+<topicref href = "source/t_reparieren.xml" keys = "t_reparieren"
+    type = "task"><topicmeta><navtitle>Reparieren</navtitle></topicmeta>
+<topicref href = "source/t_fehler-beheben.xml" keys = "t_fehler-beheben"
+    type = "task"><topicmeta><navtitle>Fehler beheben</navtitle></topicmeta></topicref>
+<topicref href = "source/t_leichte-reparatur.xml"
+    keys = "t_leichte-reparatur" type = "task"><topicmeta><navtitle>Leichte
+Reparatur durchführen</navtitle></topicmeta></topicref>
+<topicref href = "source/r_garantie.xml" keys = "r_garantie"
+    type = "reference"><topicmeta><navtitle>Garantie</navtitle></topicmeta></topicref></topicref>
+<topicref href = "source/t_entsorgen.xml" keys = "t_entsorgen"
+    type = "task"><topicmeta><navtitle>Entsorgen</navtitle></topicmeta></topicref>
+<topicref href = "source/r_technische-daten.xml"
+    keys = "r_technische-daten" type = "reference"><topicmeta>
+<navtitle>Technische Daten</navtitle></topicmeta></topicref>
+<topicref href = "source/r_konformitaet.xml" keys = "r_konformitaet"
+    type = "reference"><topicmeta><navtitle>Konformitätserklärung</navtitle></topicmeta></topicref></map>

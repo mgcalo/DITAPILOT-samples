@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val>
+	<!-- Reparaturanleitung für Produkt B -->
+	<prop action="exclude" att="product"/>
+	<prop action="include" att="product" val="B"/>
+	<prop action="exclude" att="deliveryTarget"/>
+	<prop action="include" att="deliveryTarget" val="Reparaturanleitung"/>
+</val>

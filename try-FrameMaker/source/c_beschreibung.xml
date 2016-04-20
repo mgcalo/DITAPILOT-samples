@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 1.3 Concept//EN" "technicalContent/dtd/concept.dtd" [
+]>
+
+
+
+<concept id = "c_beschreibung" xml:lang = "de-DE"
+    xmlns:ditaarch = "http://dita.oasis-open.org/architecture/2005/">
+<title>Beschreibung</title>
+<conbody><p platform = "BA">Das Geheimnis einer perfekten Naht!</p>
+<p platform = "Prospekt"><b>Top-Feature:</b>Fantastische 2- 3- und
+4-Faden-Nähte auf allen Stoffen – von dehnbaren Stretchstoffen bis
+hin zu zartem Chiffon. 15 Stiche – Nähen, Säumen und Schneiden in
+einem Arbeitsschritt. Perfekte Kanten im Handumdrehen – und das
+in der Hälfte der Zeit!</p><image href = "aa_img/foto_naehmaschine.png"
+align="left" placement="break"  keyref = "foto_naehmaschine" height
+= "300pt" width = "300pt" />
+<ul><li><p>15 Stiche – Nähen, Säumen und Schneiden in einem Arbeitsschritt!</p></li>
+<li><p>Differentialtransport - für perfekte Nähergebnisse.</p></li>
+<li><p>Freiarm - erleichtert das Nähen kleiner Teile</p></li>
+<li><p>Einfädeln – einfach und schnell!</p></li>
+<li><p>Geschwindigkeitsregulierung - perfekt für komplizierte Stellen
+und Nähprojekte</p></li></ul></conbody></concept>

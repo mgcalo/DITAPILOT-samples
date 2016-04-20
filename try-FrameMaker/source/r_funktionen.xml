@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "technicalContent/dtd/reference.dtd" [
+]>
+
+
+
+<reference id = "r_funktionen" xml:lang = "de-DE"
+    xmlns:ditaarch = "http://dita.oasis-open.org/architecture/2005/">
+<title>Funktionen</title>
+<refbody><section><p></p></section></refbody></reference>

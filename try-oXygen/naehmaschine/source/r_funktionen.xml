@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference xml:lang="de-DE" id="r_funktionen">
+	<title>Funktionen</title>
+	<refbody>
+		<section>
+			<fig>
+				<title><keyword keyref="firma"/>
+					<keyword keyref="prod-name"/> Nähmaschine</title>
+				<image keyref="foto_naehmaschine"/>
+			</fig>
+		</section>
+		<section deliveryTarget="Prospekt">
+			<p>Fantastische 2- 3- und 4-Faden-Nähte auf allen Stoffen – von dehnbaren
+				Stretchstoffen bis hin zu zartem Chiffon. 15 Stiche – Nähen, Säumen und
+				Schneiden in einem Arbeitsschritt. Perfekte Kanten im Handumdrehen – und das
+				in der Hälfte der Zeit!</p>
+		</section>
+		<section deliveryTarget="Betriebsanleitung Transportzettel Reparaturanleitung">
+			<ul>
+				<li>Maschinentyp: Overlock - Ergänzungsgerät zur Nähmaschine</li>
+				<li>Nähprogramme: 15</li>
+				<li>Anzahl der Nadeln: 2</li>
+				<li>Anzahl der Fäden: 2, 3, 4</li>
+			</ul>
+		</section>
+	</refbody>
+</reference>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd"> 
+<map xml:lang="de-DE">
+	<title>Overlock-Naehmaschine</title>
+	<!-- #### KEYS SECTION #### -->
+	<mapref href="prod-keys-A.ditamap" product="A" format="ditamap"
+		processing-role="resource-only"/>
+	<mapref href="source/_img-A/img-keys.ditamap" product="A" format="ditamap"
+		processing-role="resource-only"/>
+	<mapref href="prod-keys-B.ditamap" product="B" format="ditamap"
+		processing-role="resource-only"/>
+	<mapref href="source/_img-B/img-keys.ditamap" product="B" format="ditamap"
+		processing-role="resource-only"/>
+	<!-- #### CONTENT #### -->
+	<topicref href="source/r_sicherheit.xml" navtitle="Sicherheit" format="dita" type="reference">
+		<topicref href="source/test.dita"/>
+	</topicref>
+	<topicref href="source/c_beschreibung.xml" navtitle="Beschreibung" format="dita"
+		type="concept">
+		<topicref href="source/r_funktionen.xml" navtitle="Funktionen" format="dita"
+			type="reference"/>
+		<topicref href="source/r_zubehoer.xml" navtitle="Zubeh�r" format="dita" type="reference"
+		/>
+	</topicref>
+	<topicref href="source/t_transportieren.xml" navtitle="Transportieren" format="dita"
+		type="task" deliveryTarget="Transportzettel"/>
+	<topicref href="source/t_in-betrieb-nehmen.xml" navtitle="In Betrieb nehmen" format="dita"
+		type="task" deliveryTarget="Betriebsanleitung"/>
+	<topicref href="source/t_bedienen.xml" navtitle="Bedienen" format="dita" type="task"
+		deliveryTarget="Betriebsanleitung">
+		<topicref href="source/t_naehen.xml" navtitle="Nähen" format="dita" type="task"/>
+		<topicref href="source/t_saeumen.xml" navtitle="Säumen" format="dita" type="task"/>
+		<topicref href="source/t_schneiden.xml" navtitle="Schneiden" keys="t_schneiden"
+			format="dita" type="task"/>
+		<topicref href="source/t_geschwindigkeitsregulieren.xml"
+			navtitle="Geschwindigkeitsregulieren" keys="t_geschwindigkeitsregulieren"
+			format="dita" type="task"/>
+	</topicref>
+	<topicref href="source/t_warten.xml" navtitle="Warten" format="dita" type="task"
+		deliveryTarget="Betriebsanleitung">
+		<topicref href="source/t_reinigen.xml" navtitle="Reinigen" keys="t_reinigen"
+			format="dita" type="task"/>
+		<topicref href="source/t_lagern.xml" navtitle="Lagern" format="dita" type="task"/>
+	</topicref>
+	<topicref href="source/t_reparieren.xml" navtitle="Reparieren" format="dita" type="task"
+		deliveryTarget="Reparaturanleitung">
+		<topicref href="source/t_fehler-beheben.xml" navtitle="Fehler beheben" format="dita"
+			type="task"/>
+		<topicref href="source/t_leichte-reparatur.xml" navtitle="Leichte Reparatur durchführen"
+			format="dita" type="task"/>
+		<topicref href="source/r_garantie.xml" navtitle="Garantie" format="dita"
+			type="reference"/>
+	</topicref>
+	<topicref href="source/t_entsorgen.xml" navtitle="Entsorgen" format="dita" type="task"
+		deliveryTarget="Reparaturanleitung"/>
+	<topicref href="source/r_technische-daten.xml" navtitle="Technische Daten"
+		keys="r_technische-daten" format="dita" type="reference"/>
+	<topicref href="source/r_konformitaet.xml" navtitle="Konformitätserklärung" format="dita"
+		type="reference"/>
+	<!-- #### RELTABLE #### -->
+	<reltable>
+		<relrow>
+			<relcell>
+				<topicref keyref="t_geschwindigkeitsregulieren"/>
+			</relcell>
+			<relcell>
+				<topicref keyref="r_technische-daten"/>
+			</relcell>
+		</relrow>
+		<relrow>
+			<relcell>
+				<topicref keyref="t_schneiden"/>
+			</relcell>
+			<relcell>
+				<topicref keyref="t_reinigen"/>
+			</relcell>
+		</relrow>
+	</reltable>
+</map>

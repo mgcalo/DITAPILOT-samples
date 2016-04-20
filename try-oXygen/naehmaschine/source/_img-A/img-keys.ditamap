@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+	<title>keymap: Grafiken Marke A</title>
+
+	<topicgroup>
+		<topicmeta>
+			<navtitle>allgemeines</navtitle>
+		</topicmeta>
+
+		<keydef keys="foto_naehmaschine" href="foto_naehmaschine.png" format="PNG"
+			navtitle="naehmaschine">
+			<topicmeta>
+				<navtitle>naehmaschine</navtitle>
+				<linktext>naehmaschine</linktext>
+			</topicmeta>
+		</keydef>
+
+		<!--<keydef keys="" href="" format="PNG" navtitle="">
+			<topicmeta>
+				<navtitle></navtitle>
+				<linktext></linktext>
+			</topicmeta>
+		</keydef>-->
+
+	</topicgroup>
+</map>
